@@ -1,6 +1,7 @@
 # PAC-UF3-PROGRAMACION-SERVICIOS-Y-PROCESOS
 PAC de Desarrollo de la asignatura Progamación de serivcios y procesos Ilerna
 
+*Te recomiendo ver el README en RAW*
 
 En esta PAC se valorarán vuestro conocimiento sobre los sockets de conexión
 entre diferentes aplicaciones.
